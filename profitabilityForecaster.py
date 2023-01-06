@@ -7,7 +7,7 @@ import math
 import warnings
 warnings.filterwarnings("ignore")
 
-commissionRate = 0.3 # per cost of item, what we keep
+commissionRate = 0.3 # what is kept per cost of item
 processingRate = 0.029 # credit rate
 processingSurcharge = 0.30 # transaction fee
 maxConsultEstimate = 10 # max time per item in minutes
